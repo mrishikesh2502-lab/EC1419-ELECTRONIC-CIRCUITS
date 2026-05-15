@@ -35,3 +35,4 @@
 **VOLTAGE GAIN =**
 
 **BANDWIDTH =**
+<img width="1528" height="685" alt="WhatsApp Image 2026-05-15 at 11 39 05 AM" src="https://github.com/user-attachments/assets/f59d7e64-f1ff-41d5-bec0-6b6afaef33d7" />
